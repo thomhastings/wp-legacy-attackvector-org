@@ -1,0 +1,33 @@
+ --------------------------------------
+ Sucuri Security Wordpress Plugin
+ --------------------------------------
+
+ Author: http://sucuri.net
+ Contributors: Daniel B. Cid
+ Tested on: 3.0 and up
+ Version: 2.0
+ Page: http://wordpress.sucuri.net/
+
+ This plugin will monitor your Wordpress installation for the latest attacks and provide
+ visibility of what is happening inside. It will also keep track of system events, like logins,
+ logouts, failed logins, new users, etc.
+
+ ------------
+ Description
+ ------------
+
+ This plugin will monitor your WordPress installation for the latest attacks (hacks) and provide
+ visibility of what is happening inside WordPress. It will also keep track of system events, like logins,
+ logouts, failed logins, new users, new posts, etc.
+
+
+ -------------
+ Installation 
+ -------------
+
+ 1 - Download the plugin file from http://sucuri.net/wordpress-security
+ 2 - Go to the Wordpress Plugin menu and activate it.
+ 3 - That's it!
+
+
+ #EOF
