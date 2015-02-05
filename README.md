@@ -1,5 +1,6 @@
 wordpress
 =========
 
-asia๛.git
+asia๛.git  
 [download](http://goo.gl/htvgxk)
+[wordlists](http://bit.do/openwall)
